@@ -1,1 +1,1 @@
-# SOZO-survey-app
+# SOZO-G-C
