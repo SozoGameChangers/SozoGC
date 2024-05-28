@@ -1,1 +1,1 @@
-# SozoGC
+# SOZO-survey-app
